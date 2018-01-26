@@ -1,6 +1,8 @@
 # dinosoar1
 
 > A Vue.js project
+Deployed on firebase at:    https://dinovue.firebaseapp.com/
+
 
 ## Build Setup
 
