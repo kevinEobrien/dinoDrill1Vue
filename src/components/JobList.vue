@@ -4,7 +4,7 @@
         <h2>Job Listings</h2>
         <ul id="job-listings">
             <li v-for="listing in jobListData">
-               <h4> {{listing.title}} </h4>
+               <h4>{{listing.title}}</h4>
                <small>{{listing.pay}}</small>
                <p>{{listing.description}}</p>
                 <small v-if= "listing.interested.length === 1">{{listing.interested.length}} dino is interested in this job</small>
